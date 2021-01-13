@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IntergalacticAirways.Core\IntergalacticAirways.Core.csproj" />
+    <ProjectReference Include="..\IntergalacticAirways.DTO\IntergalacticAirways.DTO.csproj" />
+  </ItemGroup>
+
+</Project>
